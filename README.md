@@ -247,6 +247,14 @@ This is a private project for Devi Tranquil Villa. For any updates or modificati
 
 ---
 
+## 📄 License
+
+Copyright © 2025 Devi Tranquil Villa. All rights reserved.
+
+This project is proprietary software. Unauthorized copying, distribution, or modification is prohibited.
+
+---
+
 <div align="center">
 
 **Made by with ❤️ for Devi Tranquil Villa**
