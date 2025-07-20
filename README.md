@@ -226,12 +226,6 @@ python -m http.server 8000
 
 ---
 
-## 📄 License
-
-This project is privately owned by Devi Tranquil Villa. All rights reserved.
-
----
-
 ## 🤝 Contributing
 
 This is a private project for Devi Tranquil Villa. For any updates or modifications, please contact the villa management directly.
