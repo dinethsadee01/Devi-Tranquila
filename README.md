@@ -165,7 +165,7 @@ devi-tranquila/
 ### 🏨 Devi Tranquil Villa
 
 - **📞 Phone:** [+61 412 108 801](tel:+61412108801)
-- **✉️ Email:** [info@devitranquilvilla.com](mailto:info@devitranquilvilla.com)
+- **✉️ Email:** [villadeviukuwela@gmail.com](mailto:villadeviukuwela@gmail.com)
 - **🌐 Website:** [Visit Our Site](#)
 - **📍 Location:** Ukuwela, Sri Lanka
 - **🕐 Availability:** 24/7 Service
